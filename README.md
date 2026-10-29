@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mromeroParkhill
-- 👀 I’m interested in developing .NET solutions for the AEC industry and more recently, web apps integrating AI features.
-- 🌱 I’m currently learning web development, front and back end.
+- 👋 Hi, I’m Marcelo!
+- 👀 I’m interested in developing .NET and Web solutions for the AEC industry.
+- 🌱 I’m currently learning how to use AI and agents for Software Development.
 
 <!---
 mromeroParkhill/mromeroParkhill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
